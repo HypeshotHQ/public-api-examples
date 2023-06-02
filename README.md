@@ -2,6 +2,7 @@ This is an example of how to implement the [clips endpoint](https://docs.hypesho
 
 ## Getting Started
 - create a .env file and enter in NEXT_PUBLIC_HYPESHOT_API_KEY="1234567...", where 1234567... is the api key you were given
+- run npm run dev
 
 
 ## Want access?
